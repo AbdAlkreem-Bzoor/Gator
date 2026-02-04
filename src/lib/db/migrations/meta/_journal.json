@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1770184275199,
+      "tag": "0000_tranquil_cerise",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1770196054669,
+      "tag": "0001_nasty_stranger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1770207356312,
+      "tag": "0002_small_lockheed",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1770207890508,
+      "tag": "0003_clever_tony_stark",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1770215492124,
+      "tag": "0004_adorable_marten_broadcloak",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1770217721483,
+      "tag": "0005_silky_iron_lad",
+      "breakpoints": true
+    }
+  ]
+}
